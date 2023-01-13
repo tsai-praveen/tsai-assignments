@@ -17,5 +17,4 @@ Kindly note for brievity rows 6 to 95 have been hidden.
 
 ## 4. Charts
 The following chart depicts the change in loss over 100 epochs.
-![image](https://user-images.githubusercontent.com/498461/212387545-8bd4f9eb-62ce-49c5-9683-7fe8420367ba.png)
-
+![image](https://user-images.githubusercontent.com/498461/212425230-47699598-8269-4f97-94c7-36f9928f7ded.png)
