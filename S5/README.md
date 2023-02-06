@@ -17,13 +17,14 @@ All 3 of them have similar training loss and accuracy (too close for comfort).
 However, the testing accuracy puts Batch Normalization better than Layer Norm, followed by Group Norm.
 
 # Graphs
+![image](https://user-images.githubusercontent.com/498461/217011301-73e37e96-911d-4eea-8117-818f66613b92.png)
 
 # Misclassified Images
 ## Group Norm 
-
+![image](https://user-images.githubusercontent.com/498461/217011576-86e2f1c7-411b-444b-972b-9ce087d47bf0.png)
 
 ## Layer Norm
-
+![image](https://user-images.githubusercontent.com/498461/217011529-57931e7a-504e-43a9-9de8-b3e52125c52a.png)
 
 ## Batch Norm + L1 Regularization
-
+![image](https://user-images.githubusercontent.com/498461/217011485-1786495d-89c7-4d19-a179-893ae29f7222.png)
