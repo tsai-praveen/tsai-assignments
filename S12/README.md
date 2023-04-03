@@ -21,7 +21,7 @@ The outputs are better and the training shots are like this.
 ![image](https://user-images.githubusercontent.com/498461/229637648-9f03a2d7-b094-4415-894c-9a4d3613312d.png)
 
 The test set images are like this...
-![image](https://user-images.githubusercontent.com/498461/229637781-98e5a8b7-fb2a-4c91-bc23-8906bbb08c7b.png)
+![image](https://user-images.githubusercontent.com/498461/229640076-43bc44ff-00ec-45c7-a6db-bed271c32fc2.png)
 
 The validation set images are like
 ![image](https://user-images.githubusercontent.com/498461/229639625-dfa5e642-d947-4e42-9921-cd08f3a72b4b.png)
