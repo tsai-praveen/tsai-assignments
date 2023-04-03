@@ -2,6 +2,7 @@
 ==================================
 ## PART 1 - Open CV Yolo model run
 ==================================
+
 I took an image of myself along with a book and ran the standard opencv yolo model.
 It was able to identify me (person), and the book, as well as the image of the bird on the cover on the book.
 
@@ -10,6 +11,7 @@ It was able to identify me (person), and the book, as well as the image of the b
 ==========================================================
 ## PART 2 - Training Yolo V3 with custom images
 ==========================================================
+
 Took around 25 images of the Korean pop group BLACKPINK and annotated all the 4 members of the group.
 However, during testing, found out model was having difficulty with identifying similar faces (especially two members who are very similar).
 The final output was very disappointing even after running it for 300 epochs.
@@ -27,6 +29,7 @@ The validation set images are like
 ==========================================================
 ## PART 3 - Running of a video against the trained model
 ==========================================================
+
 Kung fu panda movie trailer was downloaded, all the images were extracted using ffmpeg.
 Then the detect.py was run on all the images (~3K) and then they were all merged together as a single video.
 Even the audio is added back.
